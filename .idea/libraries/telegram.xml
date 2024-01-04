@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="telegram" type="mix">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/telegram/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/telegram/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/telegram/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/telegram/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/telegram/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/telegram/ebin" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/deps/telegram/lib" />
+      <root url="file://$PROJECT_DIR$/deps/telegram/lib" />
+      <root url="file://$PROJECT_DIR$/deps/telegram/lib" />
+      <root url="file://$PROJECT_DIR$/deps/telegram/lib" />
+    </SOURCES>
+  </library>
+</component>
